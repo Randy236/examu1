@@ -15,7 +15,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Randy236/examenverdadero.git # ruta del repositorio git
+          uri: https://github.com/Randy236/examu1.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
